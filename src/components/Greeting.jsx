@@ -2,7 +2,7 @@ import React from 'react';
 
 const Greeting = ({ name }) => {
   return (
-    <h1>Hello, {name || 'Stranger'}!</h1>
+    <h1>Hello, {name || 'Friend'}!</h1>
   );
 };
 
